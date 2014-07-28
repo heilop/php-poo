@@ -1,4 +1,4 @@
-php_poo
+php poo
 =======
 
 Example with PHP POO
